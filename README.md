@@ -52,6 +52,7 @@ FRC robots have several major mechanical parts or components. Each component ser
     The biggest disadvantage you see with this type of drivetrain is a very fixed range of motion you can move the robot. Rather up or down or rotating the bot from its center. In games where we want to be able to face targets at different angles or maneuver from a difficult position, six-wheel coast struggles.
 
     *This what it looks like:*
+
     <img src="https://andymark-weblinc.netdna-ssl.com/product_images/am14u4-kit-of-parts-chassis/5c2fa4e661a10d20e10dd2b1/zoom.jpg?c=1546626278" alt="6 Wheel Drivetrain" width="450"/>
 
 
@@ -62,9 +63,11 @@ FRC robots have several major mechanical parts or components. Each component ser
     **Disadvantages:** The biggest disadvantages facing swerve drive are its ability to be programmed, price, and difficulty to build. Secondly, swerve drive sacrifices most of the power six-wheel coast can offer and we are forced to play more offensively.
 
     *This is what a single module looks like:*
+
     <img src="https://team1640.com/wiki/images/thumb/e/e8/DB11-pivot-150126.jpg/330px-DB11-pivot-150126.jpg" alt="Swerve Drive Module" height="450"/>
 
     *This is what the whole thing looks like:*
+    
     <img src="https://web.northeastern.edu/nurobotics/wp-content/uploads/2019/06/swerve.jpg" alt="Swerve Drive Drivetrain" width="450"/>
     
 
