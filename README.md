@@ -19,6 +19,16 @@ Welcome new Talon540 rookies, this document will be used to introduce you guys t
 
     - [Complete Robot Encyclopedia](https://www.projectb.net.au/resources/robot-mechanisms/)
     
-- How Robot Code Works
+## Coding Lessons
+**Your learning can be self paced, however the minimum times you must complete training is listed below**
+    - [Week 1: Java Fundamentals](/CodingLessons/JavaLessons/JavaFundamentals.md)
+    - [Week 2: Functional Programming]()
+    - [Week 3: Object Oriented Programming]()
+    - [Week 4: Github and Git Workflow]()
+
+## Robot Code
+**Robot-related learning. Follows the same rules as the coding lessons**
+ 
+How Robot Code Works
     - [Time Based Robot](/Robot%20Code%20Overview/Time%20Based/Time%20Based%20Code.md)
     - [Command Based Robot](/Robot%20Code%20Overview/Command%20Based/Command%20Based%20Code.md)
