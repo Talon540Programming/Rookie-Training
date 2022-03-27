@@ -4,6 +4,8 @@ FRC robots have several major mechanical parts or components. Each component ser
 *In FRC, the biggest components are the:*
 
 ### **Drivetrain:** The drivetrain is what actually moves the robot around. There are a few major types of drivetrain:
+**[Drivetrain Overview](https://www.youtube.com/watch?v=HpIlUxX6YI0)**
+Gives details about wheels, chassis, setups, motors, and more!
 
 1. **6 wheel coast:** This type of drivetrain sees six-wheel arranged so that three are on each side of the robot chassis. This type of drivetrain moves by using tank-like controls to move one section of the robot.
 
@@ -41,6 +43,3 @@ FRC robots have several major mechanical parts or components. Each component ser
     *This is what it looks like:* 
 
     <img src="https://cdn11.bigcommerce.com/s-t3eo8vwp22/images/stencil/1280x1280/products/560/1690/Mecanum_Drivetrain_Kit-REV-45-1877-FINAL-01__64433.1600353875.png?c=2" alt="Mecanum Drive" width="450"/>
-
-**[Drivetrain Overview](https://www.youtube.com/watch?v=HpIlUxX6YI0)**
-Gives details about wheels, chassis, setups, motors, and more!
