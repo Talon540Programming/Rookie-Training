@@ -1,0 +1,1 @@
+### **Index:** The Index is the part of the robot that moves game elements from the intake to the delivery point. 

@@ -4,14 +4,20 @@ Welcome new Talon540 rookies, this document will be used to introduce you guys t
 
 - [Meet the Team](/Team%20Introduction.md)
 - [Dates and Events](/Dates%20and%20Events.md)
-- Mechanisms
+- Mechanisms (Note: These mechanisms are not an exhaustive list, just the most common ones, varies year to year).
     - [Drivetrain](/Mechanisms/Drivetrains.md)
 
-    - [Intake](/Mechanisms/OtherMechanisms.md)
+    - [Intake](/Mechanisms/Intakes.md)
 
-    - [Index](/Mechanisms/OtherMechanisms.md)
+    - [Index](/Mechanisms/Indexers.md)
 
-    - [Climbers](/Mechanisms/OtherMechanisms.md)
+    - [Climbers](/Mechanisms/Climbers.md)
+
+    - [Shooters](/Mechanisms/Shooters.md)
+
+    - [GameElements](/Mechanisms/GameElements.md)
+
+    - [Complete Robot Encyclopedia](https://www.projectb.net.au/resources/robot-mechanisms/)
     
 - How Robot Code Works
     - [Time Based Robot](/Robot%20Code%20Overview/Time%20Based/Time%20Based%20Code.md)

@@ -1,0 +1,1 @@
+### **Game Elements:** Game elements are the components on the field meant to be manipulated by the robot to score points. There is extreme variety in this subject. 

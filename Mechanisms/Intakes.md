@@ -1,0 +1,1 @@
+### **Intake:** The intake is the mechanical part of the robot that helps bring game elements inside of the robot so that they can be delivered.

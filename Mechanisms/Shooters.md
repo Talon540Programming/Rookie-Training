@@ -1,0 +1,1 @@
+### **Shooter:** The shooter is what fires game elements out of the robot to a target location or distance.
