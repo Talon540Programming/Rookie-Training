@@ -3,7 +3,7 @@ FRC robots have several major mechanical parts or components. Each component ser
 
 *In FRC, the biggest components are the:*
 
-### **Drivetrain:** The drivetrain is what actually moves the robot around. There are two major types of drivetrain:
+### **Drivetrain:** The drivetrain is what actually moves the robot around. There are a few major types of drivetrain:
 
 1. **6 wheel coast:** This type of drivetrain sees six-wheel arranged so that three are on each side of the robot chassis. This type of drivetrain moves by using tank-like controls to move one section of the robot.
 
@@ -32,4 +32,15 @@ FRC robots have several major mechanical parts or components. Each component ser
 
     <img src="https://web.northeastern.edu/nurobotics/wp-content/uploads/2019/06/swerve.jpg" alt="Swerve Drive Drivetrain" width="450"/>
     
+3. **Mecanum Drive:** Another major form of drive, Mecanum drive, uses a special set of wheel called Mecanum wheels. Like a swerve drive, Mecanum has holonomic movement (360 degrees) and can travel in any direction. 
 
+    **Advantages:** This type of drive has a large amount of maneuverability and speed. It is much simpler than swerve in its build an expense, a good compromise between West Coast and swerve.
+
+    **Disadvatnages:** The main disadvatange when it comes to this type of drive as that it greatly limits the power of the robot. This means that if the field is terrained, it will not be very successful. It also means that other robots can easily defend against it by pushing it around. 
+
+    *This is what it looks like:* 
+
+    <img src="https://cdn11.bigcommerce.com/s-t3eo8vwp22/images/stencil/1280x1280/products/560/1690/Mecanum_Drivetrain_Kit-REV-45-1877-FINAL-01__64433.1600353875.png?c=2" alt="Mecanum Drive" width="450"/>
+
+**[Drivetrain Overview](https://www.youtube.com/watch?v=HpIlUxX6YI0)**
+Gives details about wheels, chassis, setups, motors, and more!
