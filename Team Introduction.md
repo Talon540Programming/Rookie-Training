@@ -12,3 +12,31 @@ Furthermore, each subgroup has its own leads and co-leads. This is done to bette
 - Lead: XXXX <!-- TODO: -->
 - Second: XXXX <!-- TODO: -->
 
+**Strategy has the Following Leadership:**
+- Lead: XXXX <!-- TODO: -->
+- Second: XXXX <!-- TODO: -->
+
+**CAD has the Following Leadership:**
+- Lead: XXXX <!-- TODO: -->
+- Second: XXXX <!-- TODO: -->
+
+**Financial has the Following Leadership:**
+- Lead: XXXX <!-- TODO: -->
+- Second: XXXX <!-- TODO: -->
+
+**Mechanical has the Following Leadership:**
+- Lead: XXXX <!-- TODO: -->
+- Second: XXXX <!-- TODO: -->
+
+**Electrical has the Following Leadership:**
+- Lead: XXXX <!-- TODO: -->
+- Second: XXXX <!-- TODO: -->
+
+**Public Relations has the Following Leadership:**
+- Lead: XXXX <!-- TODO: -->
+- Second: XXXX <!-- TODO: -->
+
+**Outreach and Events has the Following Leadership:**
+- Lead: XXXX <!-- TODO: -->
+- Second: XXXX <!-- TODO: -->
+
