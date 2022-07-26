@@ -27,7 +27,7 @@ Welcome new Talon540 rookies, this document will be used to introduce you guys t
     - Due Date: Week 4 Training
 - [Section 3: Object Oriented Programming](/CodingLessons/JavaLessons/ObjectOriented.md)
     - Due Date: Week 6 Training
-- [Section 4: Github and Git Workflow]()
+- [Section 4: Github and Git Workflow](/CodingLessons/VersionControl)
     - Due Date: Week 7 Training
 - [Section 5: Time Based Robot Code]()
     - Due Date: Week 10 Training
