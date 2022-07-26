@@ -25,7 +25,7 @@ Welcome new Talon540 rookies, this document will be used to introduce you guys t
     - Due Date: Week 3 Training
 - [Section 2: Functional Programming](/CodingLessons/JavaLessons/FunctionalProgramming.md)
     - Due Date: Week 4 Training
-- [Section 3: Object Oriented Programming]()
+- [Section 3: Object Oriented Programming](/CodingLessons/JavaLessons/ObjectOriented.md)
     - Due Date: Week 6 Training
 - [Section 4: Github and Git Workflow]()
     - Due Date: Week 7 Training
