@@ -1,4 +1,4 @@
-# This week's lesson consists of learning the basics of coding of our language, Java. 
+# This section's lesson consists of learning the basics of coding of our language, Java. 
 ## **Overview: You will first watch a video lesson, complete corresponding activities, then complete a test**
 
 ### **[Video Lesson](https://www.youtube.com/watch?v=eIrMbAQSU34)**
