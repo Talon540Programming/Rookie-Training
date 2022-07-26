@@ -42,3 +42,22 @@ Welcome new Talon540 rookies, this document will be used to introduce you guys t
 How Robot Code Works
     - [Time Based Robot](/Robot%20Code%20Overview/Time%20Based/Time%20Based%20Code.md)
     - [Command Based Robot](/Robot%20Code%20Overview/Command%20Based/Command%20Based%20Code.md)
+
+## Your Best Friend (Internet Resources)
+- [Stack Overflow](https://stackoverflow.com/) 
+    - User-contribution forumn where programmers help programmers.
+    - Chances are, someone has had the same problem as you, and it was answered here!
+- [Chief Delphi](https://www.chiefdelphi.com/)
+    - Like Stack Overflow, but specifically for FRC!
+    - More niche topics
+- [WPI Lib Docs](https://docs.wpilib.org/en/stable/index.html)
+    - Who best to answer robot code questions than the people who invented it?
+    - Complete documentation of how to use WPI robot code
+    
+## Extension Resources
+- Phoenix CTRE (Falcons and SRX-controlled motors with some misc.)
+    - [Detailed Docs](https://api.ctr-electronics.com/phoenix/release/java/)
+- Limelight (God of Vision)
+    - [Tutorial and Docs](https://docs.limelightvision.io/en/latest/getting_started.html)
+- NavX Gyroscope
+    - [Documentation](https://pdocs.kauailabs.com/navx-mxp/)
