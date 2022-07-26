@@ -21,10 +21,20 @@ Welcome new Talon540 rookies, this document will be used to introduce you guys t
     
 ## Coding Lessons
 **Your learning can be self paced, however the minimum times you must complete training is listed below**
-- [Week 1: Java Fundamentals](/CodingLessons/JavaLessons/JavaFundamentals.md)
-- [Week 2: Functional Programming](/CodingLessons/JavaLessons/FunctionalProgramming.md)
-- [Week 3: Object Oriented Programming]()
-- [Week 4: Github and Git Workflow]()
+- [Section 1: Java Fundamentals](/CodingLessons/JavaLessons/JavaFundamentals.md)
+    - Due Date: Week 3 Training
+- [Section 2: Functional Programming](/CodingLessons/JavaLessons/FunctionalProgramming.md)
+    - Due Date: Week 4 Training
+- [Section 3: Object Oriented Programming]()
+    - Due Date: Week 6 Training
+- [Section 4: Github and Git Workflow]()
+    - Due Date: Week 7 Training
+- [Section 5: Time Based Robot Code]()
+    - Due Date: Week 10 Training
+- [Section 6: Command Based Robot Code]()
+    - Due Date: Week 15 Training
+- [Section 7: Side Projects and intro to sub-section leaders]()
+    - No Due Date
 
 ## Robot Code
 **Robot-related learning. Follows the same rules as the coding lessons**
