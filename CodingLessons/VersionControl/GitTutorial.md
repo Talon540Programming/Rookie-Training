@@ -1,5 +1,5 @@
 ## Git Command Line Interface- Might be Tricky
-
+Make sure to visit [Version Control](/CodingLessons/VersionControl/VersionControl.md) first!
 ### Learning
 - [Git CLI Overview](https://youtu.be/8JJ101D3knE)
 - [Branching and Collaboration (24:30 to end)](https://youtu.be/DVRQoVRzMIY?t=1470)
