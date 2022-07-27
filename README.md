@@ -33,7 +33,7 @@ Welcome new Talon540 rookies, this document will be used to introduce you guys t
     - Due Date: Week 10 Training
 - [Section 6: Command Based Robot Code]()
     - Due Date: Week 15 Training
-- [Section 7: Side Projects and intro to sub-section leaders]()
+- [Section 7: Side Projects and intro to sub-section leaders](/SideProjects/)
     - No Due Date
 
 ## Robot Code
