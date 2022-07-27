@@ -25,3 +25,4 @@ If you've ever tried working with multiple people on a piece of code, you know i
         - Any programmer should be able to understand the functionality and clarity of the code
 - Creating a public repo requires lead approval, all repos will be private by default. 
 - Main branch is always protected. 
+Next: See [Git Tutorial](/CodingLessons/VersionControl/GitTutorial.md)
